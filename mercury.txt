@@ -1,3 +1,5 @@
 It's too hot, I will not be sending a mission there for now.
 However, there was a successful mission to Mercury before.
 We can base the new one on that experience.
+
+TODO: find reference
